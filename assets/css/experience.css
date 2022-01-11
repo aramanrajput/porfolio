@@ -291,7 +291,7 @@ ul ol {
 
 .main ul,
 .main1 ul {
-  display: block;
+  
   margin: 0 auto;
   min-height: 15rem;
   max-width: 1050px;
@@ -705,3 +705,32 @@ a:link {
     transform: skew(-12deg) rotate(-6deg);
   }
 }
+
+
+.dlauVe {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  
+  margin: 3rem 0px;
+}
+
+
+
+.gcoLDf {
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.dPpGTk {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
+

@@ -54,7 +54,7 @@ const showCards2 = () => {
     </div>
       `)
   );
-  experiencecards.innerHTML = output;
+  // experiencecards.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
@@ -104,7 +104,7 @@ const showCards = () => {
       </div>
       `)
   );
-  volunteership.innerHTML = output;
+  // volunteership.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
@@ -226,6 +226,6 @@ const showCards3 = () => {
       </div>
       `)
   );
-  hackathonsection.innerHTML = output;
+  // hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3);
